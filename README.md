@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @magnus-th ;
+- 👀 I’m interested in web3 , blockchain and deapp. ;
+- 🌱 I’m currently learning solidity and smart contracts. ;
+- 💞️ I’m looking to collaborate on learning solidity from basic to advance and make some smart contracts.;
+- 📫 How to reach me .. line: ar_june ;
+- 😄 Pronouns: ... his, he, mr, ;
+- ⚡ Fun fact: ...play chess. chess.com id => LookArjun ;
